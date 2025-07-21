@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adenrele Olutola</h1>
 <h3 align="center">A Data Analyst transitioning into Data Engineering</h3>
 
-<p align="left"> <a href="https://github.com/denrele15/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denrele15" alt="denrele15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdenreleO" alt="AdenreleO" /></a> </p>
 
 I'm passionate about using data to tell impactful stories and drive informed decisions. My goal is to bridge the gap between raw data and decision-ready dashboards by combining analytics skills with cloud-based data engineering tools.
 
@@ -28,7 +28,7 @@ Build robust data pipelines, streamline data flows, and contribute to open-sourc
 👯 I’m looking to collaborate on **Data wrangling and preprocessing, analytics and insights generation, visualization and reporting using tools like Power BI and Excel**
 
 <br/>
-- 👨‍💻 All of my projects are available at [https://github.com/denrele15]
+- 👨‍💻 All of my projects are available at [https://github.com/AdenreleO]
   <br/>
 - 📫 How to reach me <b>**oduntanandenrele@gmail.com**<b/>
 
