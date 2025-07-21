@@ -2,6 +2,8 @@
 <h3 align="center">A Data Analyst transitioning into Data Engineering</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdenreleO" alt="AdenreleO" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adenreleo" alt="adenreleo" /></a> </p>
+
 
 I'm passionate about using data to tell impactful stories and drive informed decisions. My goal is to bridge the gap between raw data and decision-ready dashboards by combining analytics skills with cloud-based data engineering tools.
 
