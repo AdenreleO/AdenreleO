@@ -27,22 +27,18 @@ In my current role, I focus on:
 - Data Foundations: Data modeling, data quality checks, documentation
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌱 Growing Into Data Engineering
+<h3> 🌱 Growing Into Data Engineering </h3>
 
 I’m intentionally building my data engineering skills by working on end-to-end, real-world–inspired projects that focus on reliability, scalability, and automation.
 
 Currently developing hands-on experience in:
-
-Designing ETL/ELT pipelines
-
-Building data workflows using Azure Data Factory
-
-Transforming data with Azure Databricks and Apache Spark
-
-Storing and organizing data using Azure Data Lake
-
-Preparing analytics-ready datasets for reporting and dashboards
-
+- Designing ETL/ELT pipelines
+- Building data workflows using Azure Data Factory
+- Transforming data with Azure Databricks and Apache Spark
+- Storing and organizing data using Azure Data Lake
+- Preparing analytics-ready datasets for reporting and dashboards
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</br>
 <h3> 🚀 Career Direction </h3>
 My long-term goal is to work as a Data Engineer, building robust data pipelines, improving data flows, and enabling high-quality analytics across teams. I’m particularly interested in projects that combine data engineering, analytics, and process improvement.
 -------------------------------------------------------------------------------------------------------------------------------------------------
