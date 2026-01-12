@@ -18,10 +18,10 @@ In my current role, I focus on:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2> 🛠 Skills & Tools </h2>
-- Data Analysis: Excel, SQL, Python (pandas)
-- Visualization & Reporting: Power BI, Excel
-- Process Improvement & Automation: Power Automate, SharePoint, Microsoft Forms
-- Data Foundations: Data modeling, data quality checks, documentation
+*Data Analysis: Excel, SQL, Python (pandas)
+Visualization & Reporting: Power BI, Excel
+Process Improvement & Automation: Power Automate, SharePoint, Microsoft Forms
+Data Foundations: Data modeling, data quality checks, documentation
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> 🌱 Growing Into Data Engineering </h3>
 
