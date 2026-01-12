@@ -16,7 +16,6 @@ In my current role, I focus on:
 - Working with structured datasets to generate clear, actionable insights
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-</br>
 
 <h2> 🛠 Skills & Tools </h2>
 
