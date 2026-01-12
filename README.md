@@ -1,17 +1,33 @@
-<h1 align="center">Hi 👋, I'm Adenrele Olutola</h1>
-<h3 align="center">A Data Analyst transitioning into Data Engineering</h3>
+<h1 align="center">👋 Hi, I'm Adenrele </h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdenreleO" alt="AdenreleO" /></a> </p>
 
-I'm passionate about using data to tell impactful stories and drive informed decisions. My goal is to bridge the gap between raw data and decision-ready dashboards by combining analytics skills with cloud-based data engineering tools.
+I’m a **Data Analyst** with hands-on experience in **data analysis, reporting, and business process improvement**, and I’m actively transitioning into** Data Engineering**.
 
-Currently, I work as a Data Analyst, specializing in:
-- Data wrangling and preprocessing
-- Analytics and insights generation
-- Visualization and reporting using tools like Power BI and Excel
+I enjoy working at the intersection of **data, automation, and decision-making** — transforming raw, messy data into reliable, decision-ready insights and scalable data solutions.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</br>
 
-📌 Currently Learning: How to perform end-to-end Data Engineering Project - ETL
-- Azure-based data workflows, automation, and end-to-end pipeline development
+<h2>🔍 What I Do Today </h2>
+
+In my current role, I focus on:
+- Cleaning, preparing, and analyzing data to support business and operational decisions
+- Building dashboards and reports using Power BI and Excel
+- Improving manual reporting and tracking processes through automation and workflow redesign
+- Working with structured datasets to generate clear, actionable insights
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</br>
+
+<h2> 🛠 Skills & Tools </h2>
+
+- Data Analysis: Excel, SQL, Python (pandas)
+- Visualization & Reporting: Power BI, Excel
+- Process Improvement & Automation: Power Automate, SharePoint, Microsoft Forms
+- Data Foundations: Data modeling, data quality checks, documentation
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
   
 📈 Future Goals:
 Build robust data pipelines, streamline data flows, and contribute to open-source data projects
