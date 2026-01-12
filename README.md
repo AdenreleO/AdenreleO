@@ -8,6 +8,7 @@ I enjoy working at the intersection of **data, automation, and decision-making**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </br>
 ##🔍 What I Do Today
+
 In my current role, I focus on:
 - Cleaning, preparing, and analyzing data to support business and operational decisions
 - Building dashboards and reports using Power BI and Excel
