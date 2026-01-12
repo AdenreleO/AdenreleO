@@ -7,8 +7,8 @@ I’m a **Data Analyst** with hands-on experience in **data analysis, reporting,
 I enjoy working at the intersection of **data, automation, and decision-making** transforming raw, messy data into reliable, decision-ready insights and scalable data solutions.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-</br>
 <h2> 🔍 What I Do Today </h2>
+
 In my current role, I focus on:
 - Cleaning, preparing, and analyzing data to support business and operational decisions
 - Building dashboards and reports using Power BI and Excel
