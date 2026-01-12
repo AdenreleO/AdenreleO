@@ -39,7 +39,7 @@ Currently developing hands-on experience in:
 </br>
 <h3> 🚀 Career Direction </h3>
 My long-term goal is to work as a Data Engineer, building robust data pipelines, improving data flows, and enabling high-quality analytics across teams. I’m particularly interested in projects that combine data engineering, analytics, and process improvement.
--------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 <br/>  
 
 <h3> 📂 Portfolio & Collaboration </h3>
