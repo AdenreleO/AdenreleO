@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdenreleO" alt="AdenreleO" /></a> </p>
 
 I’m a **Data Analyst** with hands-on experience in **data analysis, reporting, and business process improvement**, and I’m actively transitioning into** Data Engineering**.
-
+</br>
 I enjoy working at the intersection of **data, automation, and decision-making** — transforming raw, messy data into reliable, decision-ready insights and scalable data solutions.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </br>
@@ -15,6 +15,7 @@ In my current role, I focus on:
 - Building dashboards and reports using Power BI and Excel
 - Improving manual reporting and tracking processes through automation and workflow redesign
 - Working with structured datasets to generate clear, actionable insights
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </br>
 
@@ -26,27 +27,32 @@ In my current role, I focus on:
 - Data Foundations: Data modeling, data quality checks, documentation
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🌱 Growing Into Data Engineering
 
+I’m intentionally building my data engineering skills by working on end-to-end, real-world–inspired projects that focus on reliability, scalability, and automation.
 
-  
-📈 Future Goals:
-Build robust data pipelines, streamline data flows, and contribute to open-source data projects
+Currently developing hands-on experience in:
 
-<br/>
-🌱 Recently, I’ve been diving deeper into Data Engineering to expand my impact by building scalable and efficient data solutions. I'm gaining hands-on experience in:
+Designing ETL/ELT pipelines
 
-- ETL/ELT pipelines using Azure Data Factory
-- Big data processing with Azure Databricks and Apache Spark
-- Data warehousing and analytics using Azure Synapse Analytics
-- Cloud storage and management via Azure Data Lake
+Building data workflows using Azure Data Factory
 
+Transforming data with Azure Databricks and Apache Spark
+
+Storing and organizing data using Azure Data Lake
+
+Preparing analytics-ready datasets for reporting and dashboards
+
+<h3> 🚀 Career Direction </h3>
+My long-term goal is to work as a Data Engineer, building robust data pipelines, improving data flows, and enabling high-quality analytics across teams. I’m particularly interested in projects that combine data engineering, analytics, and process improvement.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br/>  
-👯 I’m looking to collaborate on **Data wrangling and preprocessing, analytics and insights generation, visualization and reporting using tools like Power BI and Excel**
 
-<br/>
-- 👨‍💻 All of my projects are available at [https://github.com/AdenreleO]
-  <br/>
-- 📫 How to reach me <b>**oduntanandenrele@gmail.com**<b/>
+<h3> 📂 Portfolio & Collaboration </h3>
+- 👨‍💻 Projects showcasing my journey from data analysis → automation → data engineering are available below.
+- 👯 Open to collaborating on data analysis, reporting, automation, and beginner-to-intermediate data engineering projects
+- 📫 Reach me at: <b>**oduntanandenrele@gmail.com**<b/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
