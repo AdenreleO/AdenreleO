@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi, I'm Adenrele </h1>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdenreleO" alt="AdenreleO" /></a> </p>
 
-I’m a **Data Analyst** with hands-on experience in **data analysis, reporting, and business process improvement**, and I’m actively transitioning into** Data Engineering**. I enjoy working at the intersection of **data, automation, and decision-making** — transforming raw, messy data into reliable, decision-ready insights and scalable data solutions.
+
+I’m a **Data Analyst** with hands-on experience in **data analysis, reporting, and business process improvement**, and I’m actively transitioning into** Data Engineering**. 
+
+I enjoy working at the intersection of **data, automation, and decision-making** — transforming raw, messy data into reliable, decision-ready insights and scalable data solutions.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </br>
 ##🔍 What I Do Today
