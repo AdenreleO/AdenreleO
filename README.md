@@ -23,7 +23,6 @@ In my current role, I focus on:
 - Process Improvement & Automation: Power Automate, SharePoint, Microsoft Forms
 - Data Foundations: Data modeling, data quality checks, documentation
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <h3> 🌱 Growing Into Data Engineering </h3>
 
 I’m intentionally building my data engineering skills by working on end-to-end, real-world–inspired projects that focus on reliability, scalability, and automation.
