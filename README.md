@@ -14,7 +14,7 @@ In my current role, I focus on:
 - Working with structured datasets to generate clear, actionable insights
 <br/>
 
-<h2> 🛠 Skills & Tools </h2>
+<h3> 🛠 Skills & Tools </h3>
 
 - Data Analysis: Excel, SQL, Python (pandas)
 - Visualization & Reporting: Power BI, Excel
