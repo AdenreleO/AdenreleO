@@ -12,8 +12,7 @@ In my current role, I focus on:
 - Building dashboards and reports using Power BI and Excel
 - Improving manual reporting and tracking processes through automation and workflow redesign
 - Working with structured datasets to generate clear, actionable insights
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br/>
 
 <h2> 🛠 Skills & Tools </h2>
 
