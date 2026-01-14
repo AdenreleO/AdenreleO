@@ -8,7 +8,8 @@ I enjoy working at the intersection of **data, automation, and decision-making**
 
 <h2> 🔍 What I Do Today </h2>
 In my current role, I focus on:
-- Cleaning, preparing, and analyzing data to support business and operational decisions
+
+- Cleaning, preparing, and analyzing data to support business and operational decisionss.
 - Building dashboards and reports using Power BI and Excel
 - Improving manual reporting and tracking processes through automation and workflow redesign
 - Working with structured datasets to generate clear, actionable insights
@@ -16,10 +17,11 @@ In my current role, I focus on:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2> 🛠 Skills & Tools </h2>
-*Data Analysis: Excel, SQL, Python (pandas)
-Visualization & Reporting: Power BI, Excel
-Process Improvement & Automation: Power Automate, SharePoint, Microsoft Forms
-Data Foundations: Data modeling, data quality checks, documentation
+
+- Data Analysis: Excel, SQL, Python (pandas)
+- Visualization & Reporting: Power BI, Excel
+- Process Improvement & Automation: Power Automate, SharePoint, Microsoft Forms
+- Data Foundations: Data modeling, data quality checks, documentation
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> 🌱 Growing Into Data Engineering </h3>
 
