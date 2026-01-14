@@ -3,8 +3,8 @@
 I’m a **Data Analyst** with hands-on experience in **data analysis, reporting, and business process improvement**, and I’m actively transitioning into** Data Engineering**.  
 
 I enjoy working at the intersection of **data, automation, and decision-making** transforming raw, messy data into reliable, decision-ready insights and scalable data solutions.
-<br/>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 🔍 What I Do Today </h2>
 In my current role, I focus on:
 
@@ -12,8 +12,8 @@ In my current role, I focus on:
 - Building dashboards and reports using Power BI and Excel
 - Improving manual reporting and tracking processes through automation and workflow redesign
 - Working with structured datasets to generate clear, actionable insights
-<br/>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> 🛠 Skills & Tools </h3>
 
 - Data Analysis: Excel, SQL, Python (pandas)
