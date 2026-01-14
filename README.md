@@ -37,6 +37,7 @@ My long-term goal is to work as a Data Engineer, building robust data pipelines,
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> 📂 Portfolio & Collaboration </h3>
+
 - 👨‍💻 Projects showcasing my journey from data analysis → automation → data engineering are available below.
 - 👯 Open to collaborating on data analysis, reporting, automation, and beginner-to-intermediate data engineering projects
 - 📫 Reach me at: <b>**oduntanandenrele@gmail.com**<b/>
