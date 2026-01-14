@@ -13,8 +13,8 @@ In my current role, I focus on:
 - Improving manual reporting and tracking processes through automation and workflow redesign
 - Working with structured datasets to generate clear, actionable insights
 <br/>
-<h2> 🛠 Skills & Tools </h2>
 
+<h2> 🛠 Skills & Tools </h2>
 - Data Analysis: Excel, SQL, Python (pandas)
 - Visualization & Reporting: Power BI, Excel
 - Process Improvement & Automation: Power Automate, SharePoint, Microsoft Forms
