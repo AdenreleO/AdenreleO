@@ -23,7 +23,6 @@ In my current role, I focus on:
 <br/>
 
 <h3> 🌱 Growing Into Data Engineering </h3>
-
 I’m intentionally building my data engineering skills by working on end-to-end, real-world–inspired projects that focus on reliability, scalability, and automation. Currently developing hands-on experience in:
 
 - Designing ETL/ELT pipelines
