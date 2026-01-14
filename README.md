@@ -15,6 +15,7 @@ In my current role, I focus on:
 <br/>
 
 <h2> 🛠 Skills & Tools </h2>
+
 - Data Analysis: Excel, SQL, Python (pandas)
 - Visualization & Reporting: Power BI, Excel
 - Process Improvement & Automation: Power Automate, SharePoint, Microsoft Forms
